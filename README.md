@@ -1,6 +1,6 @@
 # <center> Git e GitHub - Desafio Markdown </center>
 
-- Desafio feito como treinamento dos ensinamentos passados pela plataforma da DIO no curso Formação GitHub Certification. 
+- Desafio feito como treinamento dos ensinamentos passados pela plataforma da DIO no curso [Formação GitHub Certification](https://web.dio.me/track/formacao-github-certification). 
 ---------------
 **Passo a passo do desafio:**
 1. **Criar sua conta no Github:** ✔️
